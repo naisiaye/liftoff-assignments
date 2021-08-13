@@ -9,9 +9,12 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* Landing page - https://mydraft.cc/c4a67t39h01mca5of8b0
+* Landing page - https://mydraft.cc/c4be2l39h01mca5of9h0
 ![img.png](img.png)
-  
+
+* Registration page - https://mydraft.cc/c4a2n3b9h01mca5of830
+  ![img_4.png](img_4.png)
+
 * Log in page - https://mydraft.cc/c4a67ur9h01mca5of8c0
 ![img_1.png](img_1.png)
   
